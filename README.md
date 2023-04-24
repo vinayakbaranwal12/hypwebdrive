@@ -21,7 +21,7 @@ For any support, please email us at `starkmk85@proton.me`. We would be happy to 
 ## Donation 💰
 
 If you find our project helpful, please consider donating to us to keep the development going. You can donate via PayPal at `vinayakbaranwal98@gmail.com`, UPI at `mark85@airtel` (Vinayak Baranwal), or Crypto BTC at `bc1qzggr64zhsy8m50hatadsd9y5rn4tza8as85n63`.
-<center>![image](https://user-images.githubusercontent.com/68575225/234098017-d1b9fd28-fa94-45ad-b91f-4798a2c90f24.png)</center>
+![image](https://user-images.githubusercontent.com/68575225/234098017-d1b9fd28-fa94-45ad-b91f-4798a2c90f24.png)
 
 
 ## License 📄
