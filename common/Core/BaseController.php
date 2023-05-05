@@ -19,7 +19,7 @@ class BaseController extends Controller
 {
     use AuthorizesRequests, DispatchesJobs, ValidatesRequests, HandlesSeo;
 
-    // todo: refactor bedrive and belink policies to use basePolicy permission check and remove guest fetching here
+    // todo: refactor Hypweb Drive and policies to use basePolicy permission check and remove guest fetching here
 
     /**
      * Authorize a given action for the current user

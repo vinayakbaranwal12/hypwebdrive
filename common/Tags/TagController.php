@@ -28,7 +28,7 @@ class TagController extends BaseController
             $builder->where('type', '!=', $notType);
         }
 
-        // don't show "label" tags in bedrive
+        // don't show "label" tags in HypwebDrive
         $builder->where('type', '!=', 'label');
 
         $dataSource = new Datasource($builder, $this->request->all());

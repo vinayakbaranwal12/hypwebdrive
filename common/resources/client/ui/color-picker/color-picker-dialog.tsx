@@ -20,7 +20,7 @@ export function ColorPickerDialog({
 }: ColorPickerDialogProps) {
   const {close} = useDialogContext();
   const [value, setValue] = useState(defaultValue || '');
-  // todo: remove this once pixie and bedrive are refactored to use dialogTrigger currentValue (use "currentValue" for defaultValue as well)
+  // todo: remove this once pixie and HypwebDrive are refactored to use dialogTrigger currentValue (use "currentValue" for defaultValue as well)
   //const initialValue = useRef(defaultValue);
 
   return (
