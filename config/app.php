@@ -1,8 +1,5 @@
 <?php
-    /* Code By Vinayak Baranwal
-    Contact - starkmk85@proton.me
-     
-     */
+
 return [
     /*
     |--------------------------------------------------------------------------

@@ -25,7 +25,7 @@ export function IncomingMailGroup() {
           <Trans message="Which method should be used to handle incoming application emails." />
           <LearnMoreLink
             className="mt-8"
-            link="https://hypweb.in/contact-us/"
+            link="https://hypweb.in"
           />
         </div>
       }

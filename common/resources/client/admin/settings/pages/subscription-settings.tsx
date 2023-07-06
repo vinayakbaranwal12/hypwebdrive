@@ -88,7 +88,7 @@ function PaypalSection() {
             <Trans message="Enable PayPal payment gateway integration." />
             <LearnMoreLink
               className="mt-6"
-              link="https://hypweb.in/contact-us/"
+              link="https://hypweb.in"
             />
           </div>
         }
@@ -151,7 +151,7 @@ function StripeSection() {
             <Trans message="Enable Stripe payment gateway integration." />
             <LearnMoreLink
               className="mt-6"
-              link="https://hypweb.in/contact-us/"
+              link="https://hypweb.in"
             />
           </div>
         }

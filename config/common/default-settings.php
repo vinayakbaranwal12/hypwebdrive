@@ -136,7 +136,7 @@ return [
                                 ],
                             ],
                         ],
-                        'action' => 'https://wa.me/917906947571',
+                        'action' => 'https://facebook.com',
                     ],
                     [
                         'type' => 'link',
@@ -151,13 +151,13 @@ return [
                                 ],
                             ],
                         ],
-                        'action' => 'https://twitter.com/hypwebsolutions',
+                        'action' => 'https://twitter.com',
                     ],
                     [
                         'type' => 'link',
                         'id' => '57dsea',
                         'position' => 3,
-                        'action' => 'https://instagram.com/hypweb.in',
+                        'action' => 'https://instagram.com',
                         'icon' => [
                             [
                                 'tag' => 'path',

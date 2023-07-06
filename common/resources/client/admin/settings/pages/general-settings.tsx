@@ -66,7 +66,7 @@ function SiteUrlSection() {
         name="server.app_url"
         label={<Trans message="Primary site url" />}
         description={
-          <LearnMoreLink link="https://hypweb.in/contact-us/" />
+          <LearnMoreLink link="https://hypweb.in" />
         }
       />
       {append}

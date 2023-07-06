@@ -79,7 +79,7 @@ class BaseExceptionHandler extends Handler
             // should not return a view here, in case laravel views folder is not readable as well
             return response(
                 "<div style='text-align:center'><h1>Could not access a file or folder</h1> <br> Location: <b>$path</b><br>" .
-                    '<p>Conntact us for resolving: <a target="_blank" href="https://hypweb.in/contact-us/</a></p></div>',
+                    '<p>Contact Me for Solutions <a href="https://hypweb.in">here</a> for possible solutions.</p></div>',
             );
         }
     }

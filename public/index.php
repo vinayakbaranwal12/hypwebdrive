@@ -1,8 +1,5 @@
 <?php
-    /* Code By Vinayak Baranwal
-    Contact - starkmk85@proton.me
-     
-     */
+
 if (
     !file_exists(__DIR__ . '/../.env') ||
     str_contains(file_get_contents(__DIR__ . '/../.env'), 'INSTALLED=false')

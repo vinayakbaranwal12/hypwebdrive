@@ -53,7 +53,7 @@ if (
     </div>
     <div class="panel">
         <h1>Could not find .htaccess file</h1>
-        <p>Contact for Help <a href="https://hypweb.in/contact-us/">here</a> for possible solutions.</p>
+        <p>Contact Me for Solutions <a href="https://hypweb.in">here</a> for possible solutions.</p>
     </div>
 </body>
 </html>

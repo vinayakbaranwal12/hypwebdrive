@@ -84,7 +84,7 @@
 
         <div class="support-links-container">
             <h4>Support and Questions</h4>
-            <div>If you encounter any issues after the update, please contact <a target="_blank" href="https://hypweb.in/contact-us/">here</a>. Thanks!</div>
+            <div>If you encounter any issues after the update, please Contact me <a target="_blank" href="https://hypweb.in">here</a>. Thanks!</div>
         </div>
 
         <a href="/" class="button">Close Update Page</a>
